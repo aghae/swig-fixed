@@ -6,7 +6,7 @@
 ## install via git source : 
 [github source](https://github.com/aghae/swig-fixed)
  
-    download code via github & extract it and then : 
+    download code via github & unzip it and then : 
     npm install path/to/swig-fixed  
 
  

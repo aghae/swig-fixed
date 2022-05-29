@@ -1,12 +1,14 @@
 # Swig template engine with remove its  vulnerabilies
 
-## install via gnpm:
+## install via npm:
      npm install  swig-fixed
-## install via git source :
+
+## install via git source : 
+[github source](https://github.com/aghae/swig-fixed)
  
-    download it and use:
-    npm insall /path/to/swig 
+    download code via github & extract it and then : 
+    npm install path/to/swig-fixed  
 
  
 
-to show document of swig goto :  [swig document](http://node-swig.github.io/swig-templates/)
+Manual : [Swig Documents](http://node-swig.github.io/swig-templates/)
